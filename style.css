@@ -1,0 +1,32 @@
+#button_2{
+float: right;
+color: black;
+
+}
+#button_1{
+    width: 20%;
+    height: 35px;
+    
+    
+}
+h2{
+    text-align: center;
+    color: black;
+    font-style: italic;
+}
+body{
+    background-size: cover;
+    background-position: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
